@@ -7,7 +7,7 @@ MSc in Computational Engineering and Mathematics, BSc in Computer Science and En
 - **[Glidepath](https://github.com/dfrico/glidepath)**: budgeting from your bank's CSV, in the browser. Budget vs actuals, founder's runway, path to FIRE. HTML and JS.
 - **[Tabe](https://github.com/dfrico/tabe)**: household meal planner. A constraint solver plans the week; shopping list and phone sync included. Python, Flask, OR-Tools.
 - **[Numino](https://github.com/dfrico/numino)**: the forehead-number party game, online. Next.js, socket.io. [Try it here](https://guess-production-d424.up.railway.app).
-- **[Whisper](https://github.com/dfrico/whisper)**: on-device speech-to-text from the macOS menu bar. Hotkey, live overlay, auto-paste. Swift, whisper.cpp.
+- **[Dictado](https://github.com/dfrico/dictado)**: on-device speech-to-text from the macOS menu bar. Hotkey, live overlay, auto-paste. Swift, whisper.cpp.
 
 MIT for software that runs on your machine, AGPL for services I host.
 

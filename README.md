@@ -10,12 +10,10 @@ Senior software engineer, remote from Spain. Eight years shipping web products e
 
 ## Products
 
-|                                                      | What it does                                                                                                                                               | Built with                   |
-| ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
-| **[Glidepath](https://github.com/dfrico/glidepath)** | Budgeting from your bank's CSV: budget vs actuals, founder's runway, path to FIRE. Runs entirely in the browser.                                           | Vanilla JS                   |
-| **[Tabe](https://github.com/dfrico/tabe)**           | Meal planner for households. A constraint solver plans the week; shopping list and sync between phones included.                                           | Python, Flask, OR-Tools, PWA |
-| **[Numino](https://github.com/dfrico/numino)**       | The forehead-number party game, online. Real-time rooms; the server never sends you your own number. [Play](https://guess-production-d424.up.railway.app). | Next.js, socket.io           |
-| **[Whisper](https://github.com/dfrico/whisper)**     | On-device speech-to-text from the macOS menu bar. Hotkey, live overlay, auto-paste.                                                                        | Swift, whisper.cpp           |
+- **[Glidepath](https://github.com/dfrico/glidepath)**: budgeting from your bank's CSV, entirely in the browser. Budget vs actuals, founder's runway, path to FIRE. Vanilla JS.
+- **[Tabe](https://github.com/dfrico/tabe)**: meal planner for households. A constraint solver plans the week; shopping list and phone sync included. Python, Flask, OR-Tools.
+- **[Numino](https://github.com/dfrico/numino)**: the forehead-number party game, online. The server never sends you your own number. Next.js, socket.io. [Play](https://guess-production-d424.up.railway.app).
+- **[Whisper](https://github.com/dfrico/whisper)**: on-device speech-to-text from the macOS menu bar. Hotkey, live overlay, auto-paste. Swift, whisper.cpp.
 
 MIT for software that runs on your machine, AGPL for services I host.
 

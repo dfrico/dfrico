@@ -1,12 +1,6 @@
-# Daniel Fernández Rico
+Senior software engineer, frontend-leaning, working remotely from Spain. Eight years shipping web products end to end: maps at [Strava](https://www.strava.com) and FATMAP (React, Next.js, C++ compiled to WebAssembly), and before that [Localistico](https://localistico.com), [Vizzuality](https://www.vizzuality.com) and [Graphext](https://www.graphext.com). The longer version is on [dfrico.com](https://dfrico.com/about).
 
-Senior software engineer (frontend-leaning), remote from Spain. Eight years shipping web products end to end.
-
-- **Experience**: Strava (React, Next.js, C++/WebAssembly), FATMAP (React, TailwindCSS, CI/CD, testing, Docker, Kubernetes), Localistico, Vizzuality, Graphext. [More ↗](https://dfrico.com/about).
-- **Stack**: TypeScript, React and Next.js since 2018; Python, Rails or C++ when needed.
-- **Education**: MSc in Computational Engineering and Mathematics; BSc in Computer Science and Engineering.
-- **Teaching**: Stanford Section Leader for CS106A (Code in Place) and CS109 (Probability for AI).
-- **On the side**: building products that respect their users, local-first and private. Below.
+MSc in Computational Engineering and Mathematics, BSc in Computer Science and Engineering. Section leader at Stanford's [Code in Place](https://codeinplace.stanford.edu) (CS106A) and Probability for AI (CS109). On the side I build products that respect their users: local-first and private.
 
 ## Products
 
@@ -22,6 +16,4 @@ MIT for software that runs on your machine, AGPL for services I host.
 - [serverless-vector-search-benchmark](https://github.com/dfrico/serverless-vector-search-benchmark): MSc thesis. Three serverless vector databases compared on AWS for latency, cost and scale.
 - [airmon](https://github.com/dfrico/airmon): BSc thesis. Geospatial monitoring and prediction of Madrid's air quality.
 
-## Elsewhere
-
-[dfrico.com](https://dfrico.com) · [LinkedIn](https://www.linkedin.com/in/daniel-fernandez-rico/) · hi@dfrico.com
+Find me on [LinkedIn](https://www.linkedin.com/in/daniel-fernandez-rico/) for the full work history, or email hi@dfrico.com.
